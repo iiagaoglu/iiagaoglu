@@ -1,3 +1,2 @@
-- Hi, I’m @iiagaoglu, a narrative designer and writer.
-- I’m interested in video games and storytelling.
-- I’m currently learning JavaScript.
+- Hi, I’m @iiagaoglu, an UX Designer.
+- I’m focused on UI/UX.
